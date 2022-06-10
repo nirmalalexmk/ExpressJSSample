@@ -1,0 +1,22 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirmalalexmk/ExpressJSSample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirmalalexmk/ExpressJSSample/issues"
+  },
+  "homepage": "https://github.com/nirmalalexmk/ExpressJSSample#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
